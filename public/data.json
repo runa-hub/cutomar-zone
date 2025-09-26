@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "title": "Login Issue",
+    "description": "Customer unable to log in using their email credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-20T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment Failure",
+    "description": "Payment gateway is declining valid credit card transactions.",
+    "customer": "Sarah Lee",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-21T14:42:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Slow Website",
+    "description": "Website takes too long to load on mobile devices.",
+    "customer": "Michael Smith",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-22T09:30:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Account Locked",
+    "description": "User account locked after multiple failed login attempts.",
+    "customer": "David Johnson",
+    "priority": "High",
+    "status": "Resolved",
+    "createdAt": "2025-09-24T11:20:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Email Notifications Not Received",
+    "description": "Customer is not receiving order confirmation emails.",
+    "customer": "Sophia Brown",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-24T15:50:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Bug in Checkout",
+    "description": "Checkout button freezes on the final step of purchase.",
+    "customer": "Robert Wilson",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-25T08:12:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Refund Request",
+    "description": "Customer requested a refund for a duplicate order.",
+    "customer": "Linda Martinez",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-25T12:40:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer reports being unable to log in even after resetting their password. Error message shows 'Invalid Credentials'.",
+    "customer": "Alex Parker",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25T13:55:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Wrong Billing Amount",
+    "description": "Customer billed twice for the same purchase.",
+    "customer": "Rachel Adams",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-25T14:20:00Z"
+  },
+  {
+    "id": 10,
+    "title": "App Crashing",
+    "description": "Mobile app crashes when opening user profile.",
+    "customer": "Daniel White",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-25T15:05:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Unable to Update Profile",
+    "description": "Profile changes are not saved after submission.",
+    "customer": "Olivia Green",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "2025-09-25T15:50:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Coupon Code Not Working",
+    "description": "Discount code is being rejected during checkout.",
+    "customer": "Ethan Black",
+    "priority": "Low",
+    "status": "Resolved",
+    "createdAt": "2025-09-25T16:30:00Z"
+  },
+  {
+    "id": 13,
+    "title": "Feature Request - Wishlist",
+    "description": "Customer requests a wishlist feature for products.",
+    "customer": "Mia Scott",
+    "priority": "Low",
+    "status": "Closed",
+    "createdAt": "2025-09-25T17:10:00Z"
+  },
+  {
+    "id": 14,
+    "title": "Shipping Delay",
+    "description": "Order shipment delayed beyond expected delivery date.",
+    "customer": "James King",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2025-09-25T17:45:00Z"
+  },
+  {
+    "id": 15,
+    "title": "Password Reset Email Not Received",
+    "description": "Customer did not receive password reset email for 2 hours.",
+    "customer": "Sophia Taylor",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-25T18:20:00Z"
+  }
+]
